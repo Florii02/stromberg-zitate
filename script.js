@@ -4,7 +4,7 @@ let quotes = [];
 
 async function getQuotes() {
   try {
-    const response = await fetch("https://raw.githubusercontent.com/Florii02/haenno-zitate/refs/heads/main/quotes.json");
+    const response = await fetch("https://raw.githubusercontent.com/Florii02/stromberg-zitate/refs/heads/main/quotes.json");
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
@@ -34,5 +34,6 @@ async function getQuotes() {
 }
 
 getQuotes();
+
 
 
