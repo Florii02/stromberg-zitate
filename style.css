@@ -98,7 +98,7 @@ button {
   font-size: 1.2rem; /* Increased font size for the button text */
   line-height: 1.5rem;
   font-weight: 600;
-  color: #8C5129;
+  color: #FFFFFF;
   background: #8C5129;
   border: none;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -116,6 +116,7 @@ button:hover {
 button:active {
   transform: translateY(0);
 }
+
 
 
 
