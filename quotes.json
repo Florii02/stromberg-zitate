@@ -1,0 +1,411 @@
+{
+  "code": 200,
+  "message": "Data retrieved successfully",
+  "data": [
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch ein volles Inventar ersetzt keine leere Rücklage."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Kills spielt, verpasst oft die wahren Objectives. Das gilt im Spiel wie im Leben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jedes Risiko dodgen, aber du kannst es absichern."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Gold-Lead ohne Game-Plan ist wie Konto ohne PIN: bringt dir nix."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer immer nur auf Lucky Crit hofft, hat den Zinseszins nicht verstanden."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jede Niederlage defen, aber du kannst aus jeder was lernen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du feedest Zinsen wie Minions, aber die Sparkasse hilft beim Wave-Management."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jede Träne nach einem Lost Game ist steuerlich absetzbar."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch ein Baron-Steal gleicht keinen Schuldenberg aus."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer ständig surrender voted, wird im Leben selten lategame."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Das wahre Ranked ist der Schufa-Score."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Schlau ist, wer nicht nur LP, sondern auch Rücklagen stacked."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Man roamt nicht ohne Vision, und man unterschreibt nichts ohne Berater."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Dein Team kannst du nicht aussuchen, aber deine Bank schon."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein sauberer Draft ist wie ein guter Finanzplan: wenige Troll-Picks, viel Synergy."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Support stellt Wards. Ein guter Berater stellt Fragen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Dein stärkster Buff ist nicht Baron, sondern finanzielle Unabhängigkeit."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer jedes Angebot insta-lockt, landet schnell im CC der Ratenzahlungen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Reconnecten ist erlaubt: in die Lobby und zur Sparkasse."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Cooldowns nicht kennt, kennt auch selten seine Ausgaben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Recall rettet mehr Games als ein schlechter All-In. Gilt auch fürs Girokonto."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jeden Teamfight gewinnen, aber du kannst vorsorgen für die, die du verlierst."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur im Moment lebt, hat kein Mana für die entscheidende Ultimate."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Penta ist ein Highlight. Manchmal reicht ein solider CS-Lead."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Runes nicht anpasst, zahlt auch Gebühren, die er nicht kennt."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der beste Jungler braucht Objectives, und jeder Mensch ein Sparkonto."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst dich nicht aus jedem Gank rausflashen, aber aus manchen Schulden schon. Mit Beratung."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer immer nur auf Skins spart, vergisst das Sparen fürs echte Leben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein voller Itemslot ist schön, ein voller Notgroschen ist besser."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Shutdown lohnt sich. Manchmal kostet er mehr, als er bringt."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Mechanik setzt, vergisst das Macro. Im Game und im Haushalt."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der stärkste Champ verliert ohne Gold, und ohne Rücklagen wird's eng."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jede Lane gewinnen, aber du kannst aus jeder gestärkt zurückkommen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Vision nicht setzt, tappt im Dunkeln. Auf der Map und beim Kontostand."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Engage braucht Timing, genau wie ein guter Sparplan."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Firstblood führt zum Sieg, aber jeder erste Sparvertrag ist ein Anfang."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur reaktiv spielt, verliert die Kontrolle. Über die Lane und die Finanzen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch im Lategame zählt jeder Goldsack, und jeder Euro auf dem Konto."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jedes Spiel carrien, aber du kannst dich selbst absichern."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Summoner Spells verschwendet, verschwendet auch Chancen im Leben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Splitpush braucht Awareness, genau wie ein guter Finanzplan Überblick."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Dive lohnt sich. Manchmal ist Sicherheit der bessere Play."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Snowball hofft, hat keinen Plan B. Weder ingame noch im Portemonnaie."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der beste ADC braucht Peel, und jeder Mensch braucht Absicherung."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jeden Fehler rückgängig machen, aber du kannst aus ihm lernen und vorsorgen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Items nicht kennt, kennt auch seine Verträge nicht."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein gutes Teamplay schlägt fünf Solisten, und ein guter Berater schlägt fünf Google-Suchen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Nexus fällt beim ersten Push. Manchmal braucht's Geduld und einen Plan."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Glück setzt, hat weder Elo noch Altersvorsorge verstanden."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Wer seine Items nicht kennt, kennt auch seine Verträge nicht."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Ein gutes Teamplay schlägt fünf Solisten, und ein guter Berater schlägt fünf Google-Suchen."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Nicht jeder Nexus fällt beim ersten Push. Manchmal braucht es Geduld und einen Plan."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Auch Berater brauchen Pause, sonst deranken sie."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Es ist nicht alles Gold, was gankt."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Ich kann Ihnen die Lane nur weisen, gehen müssen Sie sie selber."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Wo drücken denn die Beinschienen des Berserkers."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Du feedest Gegner, als wäre es ein Ehrenamt."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Man beißt nicht in die Hand, die einen feedet."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Ich habe heute Termine. Nicht nur auf einer Lane, sondern auf mehreren."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Reisende soll man nicht stunnen."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Jeder Iron verdient eine Chance."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Ordnung macht den Master."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Man muss Irons schmieden, solange sie noch heiß sind."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Um voranzukommen, muss man manchmal zur Base zurückkehren."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Mit vielen Minions im Rücken ist kein Turm zu groß."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Das Leben ist wie die Pick-und-Ban-Phase. Man weiß nie, was man bekommt."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Das sind die Matches, auf die es ankommt. Wenn wir die gewinnen, dann climben wir."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Das Leben ist zu kurz für Full-Builds."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Beziehungsstatus. Also Solo, Duo oder Squad."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Morgenstund hat Goldvorteil."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Alte Synergy rostet nicht."
+    },
+    {
+    "author": "Sparkassen-Hänno",
+    "quote": "Wer seine Wards nicht setzt, verliert nicht nur die Map, sondern auch den Überblick."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Jungler farmt nicht nur Camps, sondern auch Zukunftspläne."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Flash rettet dich. Manchmal brauchst du einen Notgroschen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Carry-Champs setzt, vergisst, dass auch Tanks Verantwortung tragen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein voller Mana-Pool nützt nichts, wenn du nicht weißt, wann du castest."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der beste Outplay ersetzt keine solide Basis."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Powerspikes nicht kennt, verpasst die besten Gelegenheiten im Leben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Man kann nicht jeden Baron stehlen, aber man kann sich auf den nächsten vorbereiten."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Roam beginnt mit einem sicheren Rücken."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Pentakills wartet, verpasst die kleinen Siege des Alltags."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Gank führt zum Kill, aber jeder Versuch bringt Erfahrung."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch im Fog of War gibt es Chancen. Man muss nur hinschauen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Builds nicht anpasst, bleibt in der Meta von gestern stecken."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Teamfight braucht Koordination, genau wie ein guter Finanzplan."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jede Welle pushen, manchmal musst du freezn und abwarten."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Damage-Items baut, vergisst die Defensive. Im Game und im Leben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Ace bedeutet Victory. Manchmal fehlt noch der letzte Push."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Matchups nicht studiert, zahlt Lehrgeld auf der Lane."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Backdoor braucht Mut, aber auch einen Fluchtplan."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der längste Lategame endet irgendwann. Sei vorbereitet."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur im Soloqueue denkt, verpasst die Stärke des Teams."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Inhibitor muss sofort fallen. Manchmal lohnt sich Geduld."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Gegner unterschätzt, unterschätzt auch seine Ausgaben."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Poke-Comp braucht Reichweite, ein guter Plan braucht Weitblick."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Du kannst nicht jeden Trade gewinnen, aber du kannst aus jedem lernen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer nur auf Cheese-Strats setzt, hat keine nachhaltige Strategie."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Auch der beste Engage nützt nichts ohne Follow-up. Im Game und bei Entscheidungen."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Nicht jeder Drache ist den Teamfight wert. Prioritäten setzen ist key."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Wer seine Ressourcen verschwendet, steht am Ende mit leeren Händen da."
+    },
+    {
+      "author": "Sparkassen-Hänno",
+      "quote": "Ein guter Disengage rettet mehr Leben als ein schlechter Engage kostet."
+    }
+  ]
+}
+
