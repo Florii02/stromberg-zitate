@@ -99,7 +99,7 @@ button {
   line-height: 1.5rem;
   font-weight: 600;
   color: #ffffff;
-  background: #ff0000;
+  background: ##8C5129;
   border: none;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   cursor: pointer;
@@ -108,7 +108,7 @@ button {
 }
 
 button:hover {
-  background: #cc0000;
+  background: #9e7052;
   transform: translateY(-1px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
@@ -116,4 +116,5 @@ button:hover {
 button:active {
   transform: translateY(0);
 }
+
 
